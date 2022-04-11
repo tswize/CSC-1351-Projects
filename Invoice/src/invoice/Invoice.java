@@ -50,6 +50,3 @@ public class Invoice {
       System.out.printf("$%37.2f\n", sum);//how do you get the dollar sign right next to sum
     }
 }    
-
-//ask about more efficient way to do this -- while loop??????
-//ask about how to efficiently predict spacing instead of trial and error 
