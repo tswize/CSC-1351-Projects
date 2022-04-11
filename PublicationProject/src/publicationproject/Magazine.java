@@ -1,8 +1,3 @@
-//Teddie Swize
-//89-591-0511
-//TA: Zeke Abshire
-// Submitted around 6:00 PM
-
 package publicationproject;
 
 public class Magazine extends Publication
