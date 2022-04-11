@@ -1,8 +1,3 @@
-//Teddie Swize
-//89-591-0511
-//TA: Zeke Abshire
-// Submitted around 7:30 PM
-
 package hotelproject;
 
 public class Suite extends Room
