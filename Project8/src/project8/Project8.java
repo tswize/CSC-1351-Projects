@@ -1,8 +1,3 @@
-//Teddie Swize
-//89-591-0511
-//TA: Zeke Abshire
-//Submitted around 1745
-
 package project8;
 
 import java.util.Scanner;
