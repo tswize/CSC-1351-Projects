@@ -1,8 +1,3 @@
-//Teddie Swize
-//89-591-0511
-//TA: Zeke Abshire
-//Submitted around 1915
-
 package yomommatranslator;
 
 import java.io.File;
